@@ -6,8 +6,8 @@
   "bugs": "https://github.com/adaptlearning/adapt-contrib-blank/issues",
   "component": "blank",
   "targetAttribute": "_blank",
-  "displayName": "Blank",
-  "description": "A simple adapt core contributed blank component",
+  "displayName": "Componentă goală",
+  "description": "O componentă goală care poate fi folosită pentru a crea noi componente",
   "main": "/js/adapt-contrib-blank.js",
   "keywords": [
     "adapt-plugin",

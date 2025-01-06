@@ -14,12 +14,12 @@
           "isSetting": true,
           "inputType": "Checkbox",
           "validators": [],
-          "title": "Is this optional?",
-          "help": "An optional component does not have to be completed by the user."
+          "title": "Este opțional?",
+          "help": "O componentă opțională nu trebuie să fie completată de utilizator."
         },
         "_supportedLayout": {
           "type": "string",
-          "title": "Supported layout",
+          "title": "Aspect acceptat",
           "default": "both",
           "enum": [
             "full-width",
@@ -32,8 +32,8 @@
         },
         "displayTitle": {
           "type": "string",
-          "title": "Display title",
-          "description": "When viewing an element - this is the title that will be displayed on the page",
+          "title": "Afișează titlul",
+          "description": "Când vizualizați un element - acesta este titlul care va fi afișat pe pagină",
           "default": "",
           "_adapt": {
             "translatable": false
@@ -45,7 +45,7 @@
         },
         "body": {
           "type": "string",
-          "title": "Body",
+          "title": "Conținut",
           "default": "",
           "_adapt": {
             "translatable": false
@@ -57,7 +57,7 @@
         },
         "instruction": {
           "type": "string",
-          "title": "Instruction",
+          "title": "Instrucțiuni",
           "default": "",
           "_adapt": {
             "translatable": true
